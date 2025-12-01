@@ -152,27 +152,27 @@ We worked as a team of two students and used GitHub to share and integrate our w
 
 ### **Celine — Project Manager and Plots Computation**
 
-*Coordinated the project and organized the repository.
+* Coordinated the project and organized the repository.
 
-*Handled the generation of all plots (time series and trajectory).
+* Handled the generation of all plots (time series and trajectory).
 
-*Ensured that visual outputs matched the task geometry and recording intervals.
+* Ensured that visual outputs matched the task geometry and recording intervals.
 
 ### **Axelle — Values Computation and Written Report**
 
-*Implemented the extraction of key values (record intervals, centered coordinates, timestamps).
+* Implemented the extraction of key values (record intervals, centered coordinates, timestamps).
 
-*Verified the correctness of computed values.
+* Verified the correctness of computed values.
 
-*Wrote and structured the final report.
+* Wrote and structured the final report.
 
 ### **Joint Work**
 
-*Interpreted the data format and marker logic together.
+* Interpreted the data format and marker logic together.
 
-*Tested the full pipeline on multiple datasets and created new datasests.
+* Tested the full pipeline on multiple datasets and created new datasests.
 
-*Reviewed and validated each other’s contributions.
+* Reviewed and validated each other’s contributions.
 
 ## **5. Conclusion**
 
